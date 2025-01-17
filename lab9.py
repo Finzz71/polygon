@@ -21,6 +21,5 @@ def longest_sequence(arr):
 
     return max_length
 
-# Example usage
 array = np.array([1, 1, 1, 2, 2, 5])
 print("Longest sequence length:", longest_sequence(array))
